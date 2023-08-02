@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+        <string-array name="spinner_items">
+            <item>kg</item>
+            <item>gram</item>
+            <item>meter</item>
+            <item>centimeter</item>
+        </string-array>
+</resources>
